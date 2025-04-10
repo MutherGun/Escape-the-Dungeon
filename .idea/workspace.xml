@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c53c717-fe07-430d-9ff6-cb9926f457cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Escape the Dungeon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REDEME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sound.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine/game_engine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine/room_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirments.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rooms/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rooms/hallway.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rooms/prison_cell.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rooms/start_room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/kivy_layout.kv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/screens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untils/input_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untils/inventory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MutherGun"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MutherGun/Escape-the-Dungeon-.git",
+    "accountId": "8ba4a615-119c-4dbb-9eec-ceccf938f359"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
