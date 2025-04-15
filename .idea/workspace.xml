@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c53c717-fe07-430d-9ff6-cb9926f457cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/items/Heal_Potion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/input_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/inventory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REDEME" beforeDir="false" afterPath="$PROJECT_DIR$/REDEME.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/items/item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms/hallway.py" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/hallway.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms/start_room.py" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/start_room.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/items/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untils/input_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untils/inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="5c53c717-fe07-430d-9ff6-cb9926f457cf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,15 +43,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
